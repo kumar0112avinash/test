@@ -6,7 +6,7 @@ The Execution will start from Billing.java
 
 2)After this User Detail will print on console
 
-3) Then Item Detail will print on console
+3)Then Item Detail will print on console
 
 4)Output 0 contains the case user not available in list
 
@@ -20,8 +20,8 @@ The Execution will start from Billing.java
 
 9)Output 5 containse $ 5 discount (general customer)
 
-10) run mvn clean install
+10)run mvn clean install
 
-11) run java -jar target/xebia-1.0.0.0.jar
+11)run java -jar target/xebia-1.0.0.0.jar
 
 
